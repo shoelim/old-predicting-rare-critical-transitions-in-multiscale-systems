@@ -3,7 +3,6 @@
 
 Get started
 -----------
-
 Here is an example to run the algorithm on the time series of Example 1:
 
 ```python3 driver.py --name Example1 --n_ens 50 --trainlen 3700 --valid 10 --future 400 --trainbeg 0 --num_layer 1
