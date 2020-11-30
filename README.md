@@ -1,6 +1,6 @@
 ## Predicting Critical Transitions in Multiscale Dynamical Systems Using Reservoir Computing
 
-This is an old version of the codes that reproduce the results in the following paper. For an updated compact and user-friendly version of the codes, please visit [here]([shoelim/old-predicting-rare-critical-transitions-in-multiscale-systems).
+This is an old version of the codes that reproduce the results in the following paper. For an updated compact and user-friendly version of the codes, please visit [here]([shoelim/predicting-rare-critical-transitions-in-multiscale-systems).
 
 
 ### Reference
